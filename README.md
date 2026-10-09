@@ -25,103 +25,55 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 
 ## Habilidades y Conocimientos
 
-<table>
-  <thead>
-    <tr>
-      <!-- Puedes cambiar el texto o añadir emojis aquí si lo deseas -->
-      <th align="left">💻 Sistemas Operativos y Virtualización</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Windows Server</b><br><sub style="font-size: inherit;">Administración de Active Directory Domain Services (AD DS)</sub></td>
-    </tr>
-    <tr>
-      <td><b>Linux</b><br><sub style="font-size: inherit;">Fundamentos del sistema y manejo de línea de comandos (CLI)</sub></td>
-    </tr>
-    <tr>
-      <td><b>Entornos de Escritorio</b><br><sub style="font-size: inherit;">Sistemas operativos Windows y Linux</sub></td>
-    </tr>
-    <tr>
-      <td><b>Virtualización</b><br><sub style="font-size: inherit;">Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</sub></td>
-    </tr>
-  </tbody>
-</table>
+### 💻 Sistemas Operativos y Virtualización
 
-<!-- Espacio grande entre las tablas -->
-<br>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">🌐 Redes e Infraestructura</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Diagnóstico de Conectividad:</b><br><sub style="font-size: inherit;">Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</sub></td>
-    </tr>
-    <tr>
-      <td><b>Análisis de Tráfico:</b><br><sub style="font-size: inherit;">Captura y análisis de paquetes con Wireshark</sub></td>
-    </tr>
-    <tr>
-      <td><b>Configuración Cisco:</b><br><sub style="font-size: inherit;">Comandos básicos de Cisco IOS (comandos show)</sub></td>
-    </tr>
-    <tr>
-      <td><b>Entornos de Red:</b><br><sub style="font-size: inherit;">Resolución de incidencias en redes LAN y WLAN</sub></td>
-    </tr>
-    <tr>
-      <td><b>Gestión de Servidores:</b><br><sub style="font-size: inherit;">Administración de hosting, dominios y acceso remoto vía SSH</sub></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-<!-- TABLA 3: GESTIÓN DE SERVICIOS E INCIDENCIAS -->
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">📋 Gestión de Servicios e Incidencias (ITSM)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Gestión de Tickets</b><br><sub style="font-size: inherit;">Recepción, priorización, resolución y escalado de incidencias en Jira Service Management y Azure DevOps.</sub></td>
-    </tr>
-    <tr>
-      <td><b>IA en Soporte Técnico</b><br><sub style="font-size: inherit;">Aplicación de fundamentos de Inteligencia Artificial para la optimización de flujos de trabajo en Helpdesk.</sub></td>
-    </tr>
-    <tr>
-      <td><b>Atención al Cliente</b><br><sub style="font-size: inherit;">Soporte y consultoría técnica directa (remota y presencial), toma de requisitos e identificación de problemas.</sub></td>
-    </tr>
-    <tr>
-      <td><b>Metodologías de Trabajo</b><br><sub style="font-size: inherit;">Gestión de flujos de trabajo bajo metodologías ágiles (Agile/Scrum) y documentación rigurosa de tareas.</sub></td>
-    </tr>
-  </tbody>
-</table>
+* **Windows Server**
+  <br><sub style="font-size: inherit;">Administración de Active Directory Domain Services (AD DS)</sub><br><br>
+* **Linux**
+  <br><sub style="font-size: inherit;">Fundamentos del sistema y manejo de línea de comandos (CLI)</sub><br><br>
+* **Entornos de Escritorio**
+  <br><sub style="font-size: inherit;">Sistemas operativos Windows y Linux</sub><br><br>
+* **Virtualización**
+  <br><sub style="font-size: inherit;">Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</sub>
 
 <br>
 
-<!-- TABLA 4: ENTORNOS WEB Y CONTROL DE VERSIONES -->
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">⚙️ Entornos Web y Control de Versiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Administración de CMS y CRM</b><br><sub style="font-size: inherit;">Soporte técnico, monitorización y gestión de plataformas WordPress (Elementor) y HubSpot.</sub></td>
-    </tr>
-    <tr>
-      <td><b>Control de Versiones</b><br><sub style="font-size: inherit;">Gestión de repositorios de código y documentación técnica utilizando Git y GitHub.</sub></td>
-    </tr>
-    <tr>
-      <td><b>Automatización de Procesos</b><br><sub style="font-size: inherit;">Creación y monitorización de workflows y automatizaciones de sistemas en entornos de gestión.</sub></td>
-    </tr>
-    <tr>
-      <td><b>Seguridad y Datos</b><br><sub style="font-size: inherit;">Nociones de administración de bases de datos, seguridad web básica y auditoría técnica.</sub></td>
-    </tr>
-  </tbody>
-</table>
+### 🌐 Redes e Infraestructura
+
+* **Diagnóstico de Conectividad:**
+  <br><sub style="font-size: inherit;">Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</sub><br><br>
+* **Análisis de Tráfico:**
+  <br><sub style="font-size: inherit;">Captura y análisis de paquetes con Wireshark</sub><br><br>
+* **Configuración Cisco:**
+  <br><sub style="font-size: inherit;">Comandos básicos de Cisco IOS (comandos show)</sub><br><br>
+* **Entornos de Red:**
+  <br><sub style="font-size: inherit;">Resolución de incidencias en redes LAN y WLAN</sub><br><br>
+* **Gestión de Servidores:**
+  <br><sub style="font-size: inherit;">Administración de hosting, dominios y acceso remoto vía SSH</sub>
+
+<br>
+
+### 📋 Gestión de Servicios e Incidencias (ITSM)
+
+* **Gestión de Tickets**
+  <br><sub style="font-size: inherit;">Recepción, priorización, resolución y escalado de incidencias en Jira Service Management.</sub><br><br>
+* **IA en Soporte Técnico**
+  <br><sub style="font-size: inherit;">Aplicación de fundamentos de Inteligencia Artificial para la optimización de flujos de trabajo en Helpdesk.</sub><br><br>
+* **Atención al Cliente**
+  <br><sub style="font-size: inherit;">Soporte y consultoría técnica directa (remota y presencial), toma de requisitos e identificación de problemas.</sub><br><br>
+* **Metodologías de Trabajo**
+  <br><sub style="font-size: inherit;">Gestión de flujos de trabajo bajo metodologías ágiles (Agile/Scrum) y documentación rigurosa de tareas.</sub>
+<br>
+
+
+### ⚙️ Entornos Web y Control de Versiones
+
+* **Administración de CMS y CRM**
+  <br><sub style="font-size: inherit;">Soporte técnico, monitorización y gestión de plataformas WordPress (Elementor) y HubSpot.</sub><br><br>
+* **Control de Versiones**
+  <br><sub style="font-size: inherit;">Gestión de repositorios de código y documentación técnica utilizando Git y GitHub.</sub><br><br>
+* **Automatización de Procesos**
+  <br><sub style="font-size: inherit;">Creación y monitorización de workflows y automatizaciones de sistemas en entornos de gestión.</sub><br><br>
+* **Seguridad y Datos**
+  <br><sub style="font-size: inherit;">Nociones de administración de bases de datos, seguridad web básica y auditoría técnica.</sub>
 
