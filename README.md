@@ -21,23 +21,6 @@ Durante este último año me he volcado en certificar y consolidar esta base té
 
 Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda poner en práctica lo que sé y seguir aprendiendo. Me motiva mucho la idea de crecer en este sector y evolucionar con el tiempo hacia roles de gestión y administración de sistemas.
 
-## Habilidades y Conocimientos
-
-| Sistemas Operativos y Virtualización | 
-| :--- | 
-| **Windows Server: Administración de Active Directory Domain Services (AD DS)** | 
-| **Linux: Fundamentos del sistema y manejo de línea de comandos (CLI)** | 
-| **Entornos de Escritorio: Sistemas operativos Windows y Linux** | 
-| **Virtualización: Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox** | 
-
-
-| Redes e Infraestructura| 
-| :--- | 
-| **Diagnóstico de Conectividad: Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)** | 
-| **Análisis de Tráfico: Captura y análisis de paquetes con Wireshark** | 
-| **Configuración Cisco: Comandos básicos de Cisco IOS (comandos show)** | 
-| **Entornos de Red: Resolución de incidencias en redes LAN y WLAN** |
-| **Gestión de Servidores: Administración de hosting, dominios y acceso remoto vía SSH** |
 
 ## Habilidades y Conocimientos
 
@@ -50,16 +33,16 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
   </thead>
   <tbody>
     <tr>
-      <td><b>Windows Server:</b> Administración de Active Directory Domain Services (AD DS)</td>
+      <td><b>Windows Server:</b><br>Administración de Active Directory Domain Services (AD DS)</td>
     </tr>
     <tr>
-      <td><b>Linux:</b> Fundamentos del sistema y manejo de línea de comandos (CLI)</td>
+      <td><b>Linux:</b><br>Fundamentos del sistema y manejo de línea de comandos (CLI)</td>
     </tr>
     <tr>
-      <td><b>Entornos de Escritorio:</b> Sistemas operativos Windows y Linux</td>
+      <td><b>Entornos de Escritorio:</b><br>Sistemas operativos Windows y Linux</td>
     </tr>
     <tr>
-      <td><b>Virtualización:</b> Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</td>
+      <td><b>Virtualización:</b><br>Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</td>
     </tr>
   </tbody>
 </table>
@@ -75,19 +58,19 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
   </thead>
   <tbody>
     <tr>
-      <td><b>Diagnóstico de Conectividad:</b> Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</td>
+      <td><b>Diagnóstico de Conectividad:</b><br>Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</td>
     </tr>
     <tr>
-      <td><b>Análisis de Tráfico:</b> Captura y análisis de paquetes con Wireshark</td>
+      <td><b>Análisis de Tráfico:</b><br>Captura y análisis de paquetes con Wireshark</td>
     </tr>
     <tr>
-      <td><b>Configuración Cisco:</b> Comandos básicos de Cisco IOS (comandos show)</td>
+      <td><b>Configuración Cisco:</b><br>Comandos básicos de Cisco IOS (comandos show)</td>
     </tr>
     <tr>
-      <td><b>Entornos de Red:</b> Resolución de incidencias en redes LAN y WLAN</td>
+      <td><b>Entornos de Red:</b><br>Resolución de incidencias en redes LAN y WLAN</td>
     </tr>
     <tr>
-      <td><b>Gestión de Servidores:</b> Administración de hosting, dominios y acceso remoto vía SSH</td>
+      <td><b>Gestión de Servidores:</b><br>Administración de hosting, dominios y acceso remoto vía SSH</td>
     </tr>
   </tbody>
 </table>
