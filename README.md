@@ -8,11 +8,14 @@ Cuento con más de 15 años de experiencia en el sector tecnológico y desarroll
 
 Durante este último año me he volcado en certificar y consolidar esta base técnica:
 
-▪ Cisco CCST Networking (Certificado oficial Certiport)
-▪ Cisco CCST IT Support (Cisco Networking Academy) 
-▪ Microsoft Applied Skills: Administración de Active Directory Domain Services (AD DS).
-▪ Introducción a Linux.
-▪ Formación práctica en virtualización (VirtualBox) 
+<p>
+  ▪ Cisco CCST Networking (Certificado oficial Certiport)<br>
+  ▪ Cisco CCST IT Support (Cisco Networking Academy)<br>
+  ▪ Microsoft Applied Skills: Administración de Active Directory Domain Services (AD DS).<br>
+  ▪ Introducción a Linux.<br>
+  ▪ Formación práctica en virtualización (VirtualBox)
+</p>
+
 
 ## Objectivos
 
