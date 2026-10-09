@@ -24,7 +24,7 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 
 ## Habilidades y Conocimientos
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <!-- Puedes cambiar el texto o añadir emojis aquí si lo deseas -->
@@ -33,16 +33,16 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
   </thead>
   <tbody>
     <tr>
-      <td><b>Windows Server:</b><br>Administración de Active Directory Domain Services (AD DS)</td>
+      <td><b>Windows Server</b><br><sub style="font-size: inherit;">Administración de Active Directory Domain Services (AD DS)</sub></td>
     </tr>
     <tr>
-      <td><b>Linux:</b><br>Fundamentos del sistema y manejo de línea de comandos (CLI)</td>
+      <td><b>Linux</b><br><sub style="font-size: inherit;">Fundamentos del sistema y manejo de línea de comandos (CLI)</sub></td>
     </tr>
     <tr>
-      <td><b>Entornos de Escritorio:</b><br>Sistemas operativos Windows y Linux</td>
+      <td><b>Entornos de Escritorio</b><br><sub style="font-size: inherit;">Sistemas operativos Windows y Linux</sub></td>
     </tr>
     <tr>
-      <td><b>Virtualización:</b><br>Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</td>
+      <td><b>Virtualización</b><br><sub style="font-size: inherit;">Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</sub></td>
     </tr>
   </tbody>
 </table>
@@ -50,7 +50,7 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 <!-- Espacio grande entre las tablas -->
 <br>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th align="left">🌐 Redes e Infraestructura</th>
@@ -58,19 +58,19 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
   </thead>
   <tbody>
     <tr>
-      <td><b>Diagnóstico de Conectividad:</b><br>Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</td>
+      <td><b>Diagnóstico de Conectividad:</b><br><sub style="font-size: inherit;">Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</sub></td>
     </tr>
     <tr>
-      <td><b>Análisis de Tráfico:</b><br>Captura y análisis de paquetes con Wireshark</td>
+      <td><b>Análisis de Tráfico:</b><br><sub style="font-size: inherit;">Captura y análisis de paquetes con Wireshark</sub></td>
     </tr>
     <tr>
-      <td><b>Configuración Cisco:</b><br>Comandos básicos de Cisco IOS (comandos show)</td>
+      <td><b>Configuración Cisco:</b><br><sub style="font-size: inherit;">Comandos básicos de Cisco IOS (comandos show)</sub></td>
     </tr>
     <tr>
-      <td><b>Entornos de Red:</b><br>Resolución de incidencias en redes LAN y WLAN</td>
+      <td><b>Entornos de Red:</b><br><sub style="font-size: inherit;">Resolución de incidencias en redes LAN y WLAN</sub></td>
     </tr>
     <tr>
-      <td><b>Gestión de Servidores:</b><br>Administración de hosting, dominios y acceso remoto vía SSH</td>
+      <td><b>Gestión de Servidores:</b><br><sub style="font-size: inherit;">Administración de hosting, dominios y acceso remoto vía SSH</sub></td>
     </tr>
   </tbody>
 </table>
