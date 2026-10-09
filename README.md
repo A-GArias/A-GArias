@@ -23,13 +23,13 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 
 ## Habilidades y Conocimientos
 
-| Sistemas Operativos y Virtualización | 
+| <span style="color: burlywood;">Sistemas Operativos y Virtualización </style> | 
 | :--- | 
 | **Windows Server: Administración de Active Directory Domain Services (AD DS)** | 
 | **Linux: Fundamentos del sistema y manejo de línea de comandos (CLI)** | 
 | **Entornos de Escritorio: Sistemas operativos Windows y Linux** | 
 | **Virtualización: Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox** | 
-
+</br></br>
 | Redes e Infraestructura | 
 | :--- | 
 | **Diagnóstico de Conectividad: Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)** | 
