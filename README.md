@@ -13,18 +13,19 @@ Durante este último año me he volcado en certificar y consolidar esta base té
   ▪ Cisco CCST IT Support (Cisco Networking Academy)<br>
   ▪ Microsoft Applied Skills: Administración de Active Directory Domain Services (AD DS).<br>
   ▪ Introducción a Linux.<br>
-  ▪ Formación práctica en virtualización (VirtualBox)
+  ▪ Formación práctica en virtualización (VirtualBox)<br>
+  ▪ Jira Service Management with AI Fundamentals (Ticketing)
 </p>
 
 
-## Objectivos
+## Objetivos
 
 Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda poner en práctica lo que sé y seguir aprendiendo. Me motiva mucho la idea de crecer en este sector y evolucionar con el tiempo hacia roles de gestión y administración de sistemas.
 
 
 ## Habilidades y Conocimientos
 
-<table width="100%">
+<table>
   <thead>
     <tr>
       <!-- Puedes cambiar el texto o añadir emojis aquí si lo deseas -->
@@ -50,7 +51,7 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 <!-- Espacio grande entre las tablas -->
 <br>
 
-<table width="100%">
+<table>
   <thead>
     <tr>
       <th align="left">🌐 Redes e Infraestructura</th>
@@ -74,20 +75,53 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
     </tr>
   </tbody>
 </table>
+<br>
 
+<!-- TABLA 3: GESTIÓN DE SERVICIOS E INCIDENCIAS -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">📋 Gestión de Servicios e Incidencias (ITSM)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Gestión de Tickets</b><br><sub style="font-size: inherit;">Recepción, priorización, resolución y escalado de incidencias en Jira Service Management y Azure DevOps.</sub></td>
+    </tr>
+    <tr>
+      <td><b>IA en Soporte Técnico</b><br><sub style="font-size: inherit;">Aplicación de fundamentos de Inteligencia Artificial para la optimización de flujos de trabajo en Helpdesk.</sub></td>
+    </tr>
+    <tr>
+      <td><b>Atención al Cliente</b><br><sub style="font-size: inherit;">Soporte y consultoría técnica directa (remota y presencial), toma de requisitos e identificación de problemas.</sub></td>
+    </tr>
+    <tr>
+      <td><b>Metodologías de Trabajo</b><br><sub style="font-size: inherit;">Gestión de flujos de trabajo bajo metodologías ágiles (Agile/Scrum) y documentación rigurosa de tareas.</sub></td>
+    </tr>
+  </tbody>
+</table>
 
-## Herramientas
+<br>
 
-### Redes e Insfraestructura
-
-### Administración de sistemas
-
-![](https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D6?style=for-the-badge) 
-
-
-### Ciberseguridad
-
-
-## Certificaciones
-
+<!-- TABLA 4: ENTORNOS WEB Y CONTROL DE VERSIONES -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">⚙️ Entornos Web y Control de Versiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Administración de CMS y CRM</b><br><sub style="font-size: inherit;">Soporte técnico, monitorización y gestión de plataformas WordPress (Elementor) y HubSpot.</sub></td>
+    </tr>
+    <tr>
+      <td><b>Control de Versiones</b><br><sub style="font-size: inherit;">Gestión de repositorios de código y documentación técnica utilizando Git y GitHub.</sub></td>
+    </tr>
+    <tr>
+      <td><b>Automatización de Procesos</b><br><sub style="font-size: inherit;">Creación y monitorización de workflows y automatizaciones de sistemas en entornos de gestión.</sub></td>
+    </tr>
+    <tr>
+      <td><b>Seguridad y Datos</b><br><sub style="font-size: inherit;">Nociones de administración de bases de datos, seguridad web básica y auditoría técnica.</sub></td>
+    </tr>
+  </tbody>
+</table>
 
