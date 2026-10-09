@@ -23,7 +23,7 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 
 ## Habilidades y Conocimientos
 
-| <span style="color: burlywood;">Sistemas Operativos y Virtualización </span> | 
+| Sistemas Operativos y Virtualización | 
 | :--- | 
 | **Windows Server: Administración de Active Directory Domain Services (AD DS)** | 
 | **Linux: Fundamentos del sistema y manejo de línea de comandos (CLI)** | 
@@ -31,14 +31,67 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 | **Virtualización: Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox** | 
 
 
-
-| <span style="color: burlywood;">Redes e Infraestructura</span> | 
+| Redes e Infraestructura| 
 | :--- | 
 | **Diagnóstico de Conectividad: Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)** | 
 | **Análisis de Tráfico: Captura y análisis de paquetes con Wireshark** | 
 | **Configuración Cisco: Comandos básicos de Cisco IOS (comandos show)** | 
 | **Entornos de Red: Resolución de incidencias en redes LAN y WLAN** |
 | **Gestión de Servidores: Administración de hosting, dominios y acceso remoto vía SSH** |
+
+## Habilidades y Conocimientos
+
+<table>
+  <thead>
+    <tr>
+      <!-- Puedes cambiar el texto o añadir emojis aquí si lo deseas -->
+      <th align="left">💻 Sistemas Operativos y Virtualización</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Windows Server:</b> Administración de Active Directory Domain Services (AD DS)</td>
+    </tr>
+    <tr>
+      <td><b>Linux:</b> Fundamentos del sistema y manejo de línea de comandos (CLI)</td>
+    </tr>
+    <tr>
+      <td><b>Entornos de Escritorio:</b> Sistemas operativos Windows y Linux</td>
+    </tr>
+    <tr>
+      <td><b>Virtualización:</b> Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Espacio grande entre las tablas -->
+<br><br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">🌐 Redes e Infraestructura</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Diagnóstico de Conectividad:</b> Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)</td>
+    </tr>
+    <tr>
+      <td><b>Análisis de Tráfico:</b> Captura y análisis de paquetes con Wireshark</td>
+    </tr>
+    <tr>
+      <td><b>Configuración Cisco:</b> Comandos básicos de Cisco IOS (comandos show)</td>
+    </tr>
+    <tr>
+      <td><b>Entornos de Red:</b> Resolución de incidencias en redes LAN y WLAN</td>
+    </tr>
+    <tr>
+      <td><b>Gestión de Servidores:</b> Administración de hosting, dominios y acceso remoto vía SSH</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Herramientas
 
