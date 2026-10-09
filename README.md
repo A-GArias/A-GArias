@@ -65,7 +65,7 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 </table>
 
 <!-- Espacio grande entre las tablas -->
-<br><br><br>
+<br>
 
 <table>
   <thead>
