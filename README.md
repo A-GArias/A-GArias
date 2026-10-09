@@ -48,6 +48,8 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
   <br><sub style="font-size: inherit;">Comandos básicos de Cisco IOS (comandos show)</sub><br><br>
 * **Entornos de Red:**
   <br><sub style="font-size: inherit;">Resolución de incidencias en redes LAN y WLAN</sub><br><br>
+* **Seguridad en Redes (CCST):**
+  <br><sub style="font-size: inherit;">Nociones básicas de ciberseguridad, autenticación, firewalls, cifrado de datos y protección de accesos.</sub><br><br>
 * **Gestión de Servidores:**
   <br><sub style="font-size: inherit;">Administración de hosting, dominios y acceso remoto vía SSH</sub>
 
