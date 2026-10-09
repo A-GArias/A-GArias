@@ -23,15 +23,20 @@ Busco la oportunidad de empezar a trabajar en soporte técnico, donde pueda pone
 
 ## Habilidades y Conocimientos
 
-| Habilidad  | Caracteristica |
-| :--- | :--- |
-| **Administración de Active Directory y Acceso** | [Laboratorio de Controlador de Dominio AD DS](#) |
-| **Diagnóstico de Redes y Comandos Cisco IOS** | [Manual de Conectividad CCST Networking](#) |
-| **Resolución de Fallos IP (DHCP, DNS)** | [Análisis de Tráfico y Conectividad LAN](#) |
-| **Administración Esencial y Consola Linux** | [Manual de Campo Linux Unhatched](#) |
-| **Entornos Virtuales y Despliegue de Sistemas** | [Configuración de Entornos VirtualBox](#) |
-| **Gestión de Tickets y Fundamentos de IA en Soporte** | [Flujos de Trabajo en Jira Service Management](#) |
+| Sistemas Operativos y Virtualización | 
+| :--- | 
+| **Windows Server: Administración de Active Directory Domain Services (AD DS)** | 
+| **Linux: Fundamentos del sistema y manejo de línea de comandos (CLI)** | 
+| **Entornos de Escritorio: Sistemas operativos Windows y Linux** | 
+| **Virtualización: Creación y gestión de máquinas virtuales Windows y Linux con Oracle VirtualBox** | 
 
+| Redes e Infraestructura | 
+| :--- | 
+| **Diagnóstico de Conectividad: Uso de comandos para diagnóstico de red (ping, tracert, ipconfig)** | 
+| **Análisis de Tráfico: Captura y análisis de paquetes con Wireshark** | 
+| **Configuración Cisco: Comandos básicos de Cisco IOS (comandos show)** | 
+| **Entornos de Red: Resolución de incidencias en redes LAN y WLAN** |
+| **Gestión de Servidores: Administración de hosting, dominios y acceso remoto vía SSH** |
 
 ## Herramientas
 
