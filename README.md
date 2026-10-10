@@ -2,9 +2,9 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-garcia-arias-a8774946/)
 
-Técnico de Soporte IT / Helpdesk L1
+Técnico de Soporte IT L1
 
-Cuento con más de 15 años de experiencia en el sector tecnológico y desarrollo web, y actualmente estoy enfocado al Soporte IT, redes y administración de sistemas (Helpdesk / IT Support L1).
+Cuento con más de 15 años de experiencia en el sector tecnológico y desarrollo web, y actualmente estoy enfocado al Soporte IT, redes y administración de sistemas.
 
 Durante este último año me he volcado en certificar y consolidar esta base técnica:
 
