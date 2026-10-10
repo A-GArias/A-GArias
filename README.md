@@ -2,7 +2,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-garcia-arias-a8774946/)
 
-Técnico de Soporte IT L1
+Técnico de Soporte IT N1
 
 Cuento con más de 15 años de experiencia en el sector tecnológico y desarrollo web, y actualmente estoy enfocado al Soporte IT, redes y administración de sistemas.
 
